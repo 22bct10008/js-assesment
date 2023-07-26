@@ -44,7 +44,7 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("MOHITH",08,18);
-mintNFT("Gautham",03,18);
+mintNFT("Gautham",03,19);
 mintNFT("Chakresh",19,18);
 mintNFT("Praneeth",69,18);
 
